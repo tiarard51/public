@@ -1,0 +1,62 @@
+h1 {
+    text-align: center;
+}
+
+header {
+justify-content: space-between;
+background-color: white;
+display: flex;
+position: sticky;
+top: 0;
+
+}
+
+body{
+    background-image: url(/public/img/logo\ ke2\ pajum.jpg);
+    padding: 0px;
+    margin: 0px;
+}
+
+nav ul{
+    display: flex;
+    gap: 2rem;
+    list-style-type: none;
+}
+
+section {
+    background-color: white;
+    margin: 50px 300px 20px;
+    padding: 2px;
+}
+
+article p{
+   border-bottom: 2px solid black;
+   padding-bottom: 30px;
+   text-align: justify; 
+}
+
+section {
+   padding: 2px;
+}
+
+article p{
+    border-bottom: 2px solid black;
+    padding-bottom: 30px;
+    text-align: justify;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+
+}
+
+article a {
+   text-decoration: none;
+}
+
+article {
+    margin: 20px;
+}
